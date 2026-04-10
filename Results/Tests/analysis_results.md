@@ -28,7 +28,7 @@ Les dérivations affixales seront privilégiées, car elles sont nombreuses et p
 ## Test 1 Llama 3.2 (Grid5000)
 - prompt simple :
 
-Tu es un assistant qui répond efficacement aux questions à partir d'un fichier JSON qui contient plusieurs informations à propos d'un mot. Tu ne dois pas donner d'explications, tu ne dois pas raisonner, tu ne dois pas reformuler la tâche.
+```Tu es un assistant qui répond efficacement aux questions à partir d'un fichier JSON qui contient plusieurs informations à propos d'un mot. Tu ne dois pas donner d'explications, tu ne dois pas raisonner, tu ne dois pas reformuler la tâche.
 
 L'enregistrement en JSON suivant : {json_entry} contient un mot du français, une catégorie, une définition et une étymologie. Construis un nouvel enregistrement JSON qui contient les réponses aux questions suivantes :
 
@@ -42,7 +42,7 @@ L'enregistrement en JSON suivant : {json_entry} contient un mot du français, un
         
         * Q5 = si des composants sont indiqués dans l'étymologie, quels sont ces composants ? (liste de composants ou NULL si l'information est absente)
         
-        * Q6 = si le type du procédé morphologique est indiqué dans l'étymologie (suffixation, préfixation, composition, conversion, apocope, etc.), quel est ce type ? (un seul mot ou NULL si l'information est absente)
+        * Q6 = si le type du procédé morphologique est indiqué dans l'étymologie (suffixation, préfixation, composition, conversion, apocope, etc.), quel est ce type ? (un seul mot ou NULL si l'information est absente)``` 
         
 - donne très peu de réponses (18/140)
 - gros décalage, les réponses ne correspondent pas aux entrées pour une grosse partie des données, par exemple : pour l'entrée "ouvrage" nous avons les réponses de l'entrée "siège" à la place
