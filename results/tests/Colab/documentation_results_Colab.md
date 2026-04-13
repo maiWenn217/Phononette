@@ -21,4 +21,4 @@ type = type de procédé
 - tests_csv_few_shot.csv correspond à la sortie du notebook Colab_few_shot_prompting.ipynb avec le prompt modifié + deux exemples appliqué sur le plus de données possible + le modèle GPT-oss.
 
 # Où trouver les notebooks
-Tous les notebooks sont stockés dans le dossier src. 
+Tous les notebooks sont stockés dans le dossier src/tests. 
