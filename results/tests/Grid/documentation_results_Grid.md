@@ -21,4 +21,4 @@ type = type de procédé
 - test_few_shot_phi3.csv correspond à la sortie du script Grid_test_few_shot_phi3.py avec le prompt modifié + deux exemples appliqué sur le plus de données possible + le modèle Phi_3 mini.
 
 # Où trouver les scripts
-Tous les scripts sont stockés dans le dossier src. 
+Tous les scripts sont stockés dans le dossier src/tests. 
