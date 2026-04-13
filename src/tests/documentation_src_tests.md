@@ -13,4 +13,4 @@ Tous les fichiers commençant par "Grid_" correspondent à des scripts (.py) que
 - Grid_test_few_shot_phi3 est un script adapté de Colab_few_shot_prompting pour tourner sur Grid5000 et tester le modèle Phi-3 mini.
 
 # Où trouver les résultats
-Tous les résultats au format csv sont stockés dans le dossier Results/Colab ou Results/Grid. 
+Tous les résultats au format csv sont stockés dans le dossier results/tests/Colab ou results/tests/Grid. 
