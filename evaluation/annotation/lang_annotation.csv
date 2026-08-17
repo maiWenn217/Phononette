@@ -1,0 +1,301 @@
+source,lemma,lang,score
+G,actinique,grec ancien,1
+NS,actinique,grec ancien,1
+S,actinique,grec ancien,1
+G,adipeux,latin,1
+NS,adipeux,latin,1
+S,adipeux,latin,1
+G,an,,1
+NS,an,latin,0
+S,an,latin,0
+G,antifébrile,latin,1
+NS,antifébrile,Latin,1
+S,antifébrile,Latin,1
+G,arbre,,1
+NS,arbre,latin,0
+S,arbre,latin,0
+G,bibition,latin,1
+NS,bibition,bas latin,1
+S,bibition,bas latin,1
+G,boire,,1
+NS,boire,latin,0
+S,boire,latin,0
+G,bois,,1
+NS,bois,proto-germanique,0
+S,bois,proto-germanique,0
+G,caprin,latin,1
+NS,caprin,latin,1
+S,caprin,latin,1
+G,cardiaque,latin,1
+NS,cardiaque,latin,1
+S,cardiaque,latin,1
+G,carnassier,occitan,1
+NS,carnassier,occitan,1
+S,carnassier,occitan,1
+G,caséeux,latin,1
+NS,caséeux,latin,1
+S,caséeux,latin,1
+G,chaise,,1
+NS,chaise,latin,0
+S,chaise,latin,0
+G,chat,,1
+NS,chat,latin,0
+S,chat,latin,0
+G,chien,,1
+NS,chien,latin,0
+S,chien,latin,0
+G,chthonien,grec ancien,1
+NS,chthonien,grec,0.5
+S,chthonien,grec,0.5
+G,ciel,,1
+NS,ciel,latin,0
+S,ciel,latin,0
+G,comestible,latin,1
+NS,comestible,latin,1
+S,comestible,latin,1
+G,corps,,1
+NS,corps,latin,0
+S,corps,latin,0
+G,coturnisme,latin,1
+NS,coturnisme,latin,1
+S,coturnisme,latin,1
+G,crustacé,latin,1
+NS,crustacé,latin,1
+S,crustacé,latin,1
+G,céleste,latin,1
+NS,céleste,latin,1
+S,céleste,latin,1
+G,céphalaire,grec ancien,1
+NS,céphalaire,grec,0.5
+S,céphalaire,grec,0.5
+G,cérémonie,,1
+NS,cérémonie,latin,0
+S,cérémonie,latin,0
+G,dent,,1
+NS,dent,latin,0
+S,dent,latin,0
+G,divitisme,latin,1
+NS,divitisme,latin,1
+S,divitisme,latin,1
+G,eau,,1
+NS,eau,latin,0
+S,eau,latin,0
+G,essai,,1
+NS,essai,latin,0
+S,essai,latin,0
+G,fabisme,latin,1
+NS,fabisme,latin,1
+S,fabisme,latin,1
+G,fauteuil,,1
+NS,fauteuil,ancien français,0
+S,fauteuil,ancien français,0
+G,feu,,1
+NS,feu,latin,0
+S,feu,latin,0
+G,fin,,1
+NS,fin,latin,0
+S,fin,latin,0
+G,foliacé,latin,1
+NS,foliacé,latin,1
+S,foliacé,latin,1
+G,funiculaire,latin,1
+NS,funiculaire,,0
+S,funiculaire,,0
+G,gibbeux,latin,1
+NS,gibbeux,latin,1
+S,gibbeux,latin,1
+G,gigantesque,latin,1
+NS,gigantesque,italien,0
+S,gigantesque,italien,0
+G,gravidisme,latin,1
+NS,gravidisme,,0
+S,gravidisme,,0
+G,groupe,,1
+NS,groupe,germanique,0
+S,groupe,germanique,0
+G,humain,latin,1
+NS,humain,latin,1
+S,humain,latin,1
+G,igné,latin,1
+NS,igné,latin,1
+S,igné,latin,1
+G,jour,,1
+NS,jour,latin,0
+S,jour,latin,0
+G,kérosène,grec ancien,1
+NS,kérosène,grec,0.5
+S,kérosène,grec,0.5
+G,lactique,latin,1
+NS,lactique,latin,1
+S,lactique,latin,1
+G,lait,,1
+NS,lait,latin,0
+S,lait,latin,0
+G,lectrice,latin,1
+NS,lectrice,latin,1
+S,lectrice,latin,1
+G,ligneux,latin,1
+NS,ligneux,,0
+S,ligneux,latin,1
+G,lire,,1
+NS,lire,latin,0
+S,lire,latin,0
+G,locataire,latin,1
+NS,locataire,latin,1
+S,locataire,latin,1
+G,main,,1
+NS,main,latin,0
+S,main,latin,0
+G,malachite,latin,1
+NS,malachite,latin,1
+S,malachite,latin,1
+G,manger,,1
+NS,manger,latin,0
+S,manger,latin,0
+G,marmoréen,latin,1
+NS,marmoréen,latin,1
+S,marmoréen,latin,1
+G,mer,,1
+NS,mer,,1
+S,mer,,1
+G,mois,,1
+NS,mois,latin,0
+S,mois,latin,0
+G,mont,,1
+NS,mont,latin,0
+S,mont,latin,0
+G,mot,,1
+NS,mot,latin,0
+S,mot,latin,0
+G,myrmicéen,grec ancien,1
+NS,myrmicéen,grec ancien,1
+S,myrmicéen,grec ancien,1
+G,nez,,1
+NS,nez,indo-européen commun,0
+S,nez,indo-européen commun,0
+G,nom,,1
+NS,nom,indo-européen,0
+S,nom,indo-européen,0
+G,nord,,1
+NS,nord,vieil anglais,0
+S,nord,vieil anglais,0
+G,nucléé,latin,1
+NS,nucléé,latin,1
+S,nucléé,latin,1
+G,nutrition,latin,1
+NS,nutrition,latin,1
+S,nutrition,latin,1
+G,oblation,latin,1
+NS,oblation,latin,1
+S,oblation,latin,1
+G,oiseau,,1
+NS,oiseau,latin,0
+S,oiseau,latin,0
+G,ordre,,1
+NS,ordre,latin,0
+S,ordre,latin,0
+G,ovoïde,latin,1
+NS,ovoïde,Latin,1
+S,ovoïde,Latin,1
+G,pain,,1
+NS,pain,latin,0
+S,pain,latin,0
+G,pancalisme,grec ancien,1
+NS,pancalisme,grec ancien,1
+S,pancalisme,grec ancien,1
+G,patibulaire,latin,1
+NS,patibulaire,latin,1
+S,patibulaire,latin,1
+G,phrase,,1
+NS,phrase,latin,0
+S,phrase,latin,0
+G,pied,,1
+NS,pied,latin,0
+S,pied,latin,0
+G,pierre,,1
+NS,pierre,grec ancien,0
+S,pierre,grec ancien,0
+G,plage,,1
+NS,plage,latin,0
+S,plage,latin,0
+G,polyadelphe,grec ancien,1
+NS,polyadelphe,grec,0.5
+S,polyadelphe,grec,0.5
+G,pomme,,1
+NS,pomme,latin,0
+S,pomme,latin,0
+G,porte,,1
+NS,porte,latin,0
+S,porte,latin,0
+G,potable,latin,1
+NS,potable,latin,1
+S,potable,latin,1
+G,pétré,latin,1
+NS,pétré,latin,1
+S,pétré,latin,1
+G,rare,,1
+NS,rare,latin,0
+S,rare,latin,0
+G,rupestre,latin,1
+NS,rupestre,latin,1
+S,rupestre,latin,1
+G,région,,1
+NS,région,latin,0
+S,région,latin,0
+G,scolaire,latin,1
+NS,scolaire,latin,1
+S,scolaire,latin,1
+G,sel,,1
+NS,sel,latin,0
+S,sel,FAIL,0
+G,sigillaire,latin,1
+NS,sigillaire,latin,1
+S,sigillaire,latin,1
+G,siège,,1
+NS,siège,latin,0
+S,siège,latin,0
+G,strabisme,grec ancien,1
+NS,strabisme,grec ancien,1
+S,strabisme,grec ancien,1
+G,studieux,latin,1
+NS,studieux,latin,1
+S,studieux,latin,1
+G,sud,,1
+NS,sud,vieil anglais,0
+S,sud,vieil anglais,0
+G,table,,1
+NS,table,latin,0
+S,table,latin,0
+G,tasse,,1
+NS,tasse,arabe,0
+S,tasse,arabe,0
+G,terre,,1
+NS,terre,latin,0
+S,terre,latin,0
+G,thalassique,grec ancien,1
+NS,thalassique,latin,0
+S,thalassique,latin,0
+G,thélite,grec ancien,1
+NS,thélite,grec ancien,1
+S,thélite,grec ancien,1
+G,trousse,,1
+NS,trousse,,1
+S,trousse,,1
+G,vent,,1
+NS,vent,latin,0
+S,vent,latin,0
+G,verbe,,1
+NS,verbe,latin,0
+S,verbe,latin,0
+G,viaire,latin,1
+NS,viaire,latin,1
+S,viaire,latin,1
+G,visible,latin,1
+NS,visible,latin,1
+S,visible,latin,1
+G,école,,1
+NS,école,latin,0
+S,école,latin,0
+G,évier,ancien français,1
+NS,évier,latin,0
+S,évier,latin,0
