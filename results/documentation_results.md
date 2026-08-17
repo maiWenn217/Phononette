@@ -14,4 +14,4 @@ Suite aux évaluations menées sur les résultats du modèle Mistral, nous avons
 Par simple curiosité, nous avons voulu voir si notre méthodologie pouvait fonctionner sur une autre langue que le français. Nous avons donc créé un nouveau contexte contenant des entrées supplétives italiennes et avons testé notreméthodologie sur le meilleur modèle: Qwen. Le fichier résultats correspondant se trouve donc dans ce dossier.
 
 # Résultats et analyses
-Les résultats des métriques d'évaluation et les conclusions que nous pouvons tirer sontexplicitées dans le mémoire Creation_lexicon_suppletive_stems.pdf.
+Les résultats des métriques d'évaluation et les conclusions que nous pouvons tirer sont explicitées dans le mémoire Creation_lexicon_suppletive_stems.pdf Section First results and assessments.
