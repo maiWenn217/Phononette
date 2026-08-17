@@ -1,0 +1,301 @@
+source,lemma,etym_mean,score
+G,actinique,"[('aktis, aktinos', 'rayon')]",1
+NS,actinique,"[['grec ancien', 'rayon']]",0
+S,actinique,"[['grec ancien', 'rayon']]",0
+G,adipeux,"[('adeps, adipis', 'graisse')]",1
+NS,adipeux,"[['latin', 'graisse']]",0
+S,adipeux,"[['latin', 'graisse']]",0
+G,an,[],1
+NS,an,[],1
+S,an,[],1
+G,antifébrile,"[('febrilis', 'agité par la fièvre'), ('febris', 'fièvre')]",1
+NS,antifébrile,"[['fébrile', 'fièvre'], ['fièvre', 'fever']]",0
+S,antifébrile,"[['fébrile', 'fièvre'], ['fièvre', 'fever']]",0
+G,arbre,[],1
+NS,arbre,"[['arbor', 'arbre'], ['ab', 'haut'], ['or', 'ou'], ['bor', 'b'], ['bre', 'arbre']]",0
+S,arbre,"[['arbor', 'arbre'], ['ab', 'haut'], ['or', 'ou'], ['bor', 'b'], ['bre', 'arbre']]",0
+G,bibition,"[('bibitio', 'action de boire'), ('bibitus', 'boire')]",1
+NS,bibition,[],0
+S,bibition,[],0
+G,boire,[],1
+NS,boire,"[['bibere', 'boire'], ['beuverie', 'breuvage'], ['breuvage', 'boisson'], ['buvable', 'boisson'], ['fourbu', 'boisson'], ['imbuvable', 'boisson'], ['bibition', 'boisson'], ['boire', 'boisson'], ['bu', 'boisson'], ['buvetier', 'boisson'], ['buvette', 'boisson'], ['buveur', 'boisson'], ['buveuse', 'boisson'], ['emboire', 'boisson'], ['embuvage', 'boisson'], ['impotable', 'boisson'], ['potabilité', 'boisson'], ['potable', 'boisson'], ['potion', 'boisson']]",0
+S,boire,"[['bibere', 'boire'], ['beuverie', 'breuvage'], ['breuvage', 'boisson'], ['buvable', 'boisson'], ['fourbu', 'boisson'], ['imbuvable', 'boisson'], ['bibition', 'boisson'], ['boire', 'boisson'], ['bu', 'boisson'], ['buvetier', 'boisson'], ['buvette', 'boisson'], ['buveur', 'boisson'], ['buveuse', 'boisson'], ['emboire', 'boisson'], ['embuvage', 'boisson'], ['impotable', 'boisson'], ['potabilité', 'boisson'], ['potable', 'boisson'], ['potion', 'boisson']]",0
+G,bois,[],1
+NS,bois,"[['bosk', 'buisson'], ['busk', 'buisson'], ['buskaz', 'buisson'], ['bosc', 'bois, forêt'], ['bosc/bòsc', 'bois, forêt'], ['bosque', 'bois, forêt'], ['bosco', 'bois, forêt'], ['Busch', 'buisson'], ['bosquet', 'bois, forêt'], ['bouquet', 'bouquet'], ['bouquetier', 'bouquetier'], ['bouqueté', 'bouqueté'], ['bouvet', 'bouvet'], ['bouvetage', 'bouvetage'], ['bouveter', 'bouveter'], ['bouveteur', 'bouveteur'], ['bouveteuse', 'bouveteuse'], ['bouvier', 'bouvier'], ['bouvière', 'bouvière'], ['bovin', 'bovin'], ['boyer', 'boyer'], ['boëtte', 'boëtte'], ['bœuf', 'bœuf'], ['déboisage', 'déboisage'], ['déboiseur', 'déboiseur'], ['débouchage', 'débouchage'], ['débouchement', 'débouchement'], ['déboucher', 'déboucher'], ['déboucheur', 'déboucheur'], ['débouchonner', 'débouchonner'], ['débouché', 'débouché'], ['délignification', 'délignification'], ['délignifier', 'délignifier'], ['embouage', 'embouage'], ['embouchage', 'embouchage'], ['embouche', 'embouche'], ['emboucher', 'emboucher'], ['emboucheur', 'emboucheur'], ['embouché', 'embouché'], ['embouement', 'embouement'], ['embouer', 'embouer'], ['imbouchable', 'imbouchable'], ['ligneux', 'ligneux'], ['lignite', 'lignite'], ['ligniteux', 'ligniteux'], ['monoxyle', 'monoxyle'], ['reboisage', 'reboisage'], ['rebouchage', 'rebouchage'], ['rebouchement', 'rebouchement'], ['reboucher', 'reboucher'], ['stomatite', 'stomatite'], ['xylite', 'xylite'], ['xylène', 'xylène']]",0
+S,bois,"[['bosk', 'buisson'], ['busk', 'buisson'], ['buskaz', 'buisson'], ['bosc', 'bois, forêt'], ['bosc/bòsc', 'bois, forêt'], ['bosque', 'bois, forêt'], ['bosco', 'bois, forêt'], ['Busch', 'buisson'], ['bosquet', 'bois, forêt'], ['bouquet', 'bouquet'], ['bouquetier', 'bouquetier'], ['bouqueté', 'bouqueté'], ['bouvet', 'bouvet'], ['bouvetage', 'bouvetage'], ['bouveter', 'bouveter'], ['bouveteur', 'bouveteur'], ['bouveteuse', 'bouveteuse'], ['bouvier', 'bouvier'], ['bouvière', 'bouvière'], ['bovin', 'bovin'], ['boyer', 'boyer'], ['boëtte', 'boëtte'], ['bœuf', 'bœuf'], ['déboisage', 'déboisage'], ['déboiseur', 'déboiseur'], ['débouchage', 'débouchage'], ['débouchement', 'débouchement'], ['déboucher', 'déboucher'], ['déboucheur', 'déboucheur'], ['débouchonner', 'débouchonner'], ['débouché', 'débouché'], ['délignification', 'délignification'], ['délignifier', 'délignifier'], ['embouage', 'embouage'], ['embouchage', 'embouchage'], ['embouche', 'embouche'], ['emboucher', 'emboucher'], ['emboucheur', 'emboucheur'], ['embouché', 'embouché'], ['embouement', 'embouement'], ['embouer', 'embouer'], ['imbouchable', 'imbouchable'], ['ligneux', 'ligneux'], ['lignite', 'lignite'], ['ligniteux', 'ligniteux'], ['monoxyle', 'monoxyle'], ['reboisage', 'reboisage'], ['rebouchage', 'rebouchage'], ['rebouchement', 'rebouchement'], ['reboucher', 'reboucher'], ['stomatite', 'stomatite'], ['xylite', 'xylite'], ['xylène', 'xylène']]",0
+G,caprin,"[('caprinus', 'de chèvre'), ('capra', 'chèvre')]",1
+NS,caprin,"[['latin', 'de chèvre'], ['latin', 'bouc'], ['latin', 'chèvre']]",0
+S,caprin,"[['latin', 'de chèvre'], ['latin', 'bouc'], ['latin', 'chèvre']]",0
+G,cardiaque,"[('cardiacus', 'cardiaque'), ('kardiakós', 'relatif au cœur'), ('kardía', 'cœur')]",1
+NS,cardiaque,[],0
+S,cardiaque,[],0
+G,carnassier,"[('carnacier', 'qui se nourrit de chair crue'), ('caro', 'chair')] ",1
+NS,carnassier,[],0
+S,carnassier,[],0
+G,caséeux,"[('caseus', 'fromage')]",1
+NS,caséeux,[],0
+S,caséeux,[],0
+G,chaise,[],1
+NS,chaise,"[['chaire', 'siège avec dossier, sans accoudoirs'], ['cathedra', 'siège du magistrat']]",0
+S,chaise,"[['chaire', 'siège avec dossier, sans accoudoirs'], ['cathedra', 'siège du magistrat']]",0
+G,chat,[],1
+NS,chat,"[['cattus', 'chat (domestique)'], ['tešau', 'chatte'], ['felis', 'chat sauvage d’Europe (Felis silvestris silvestris)']]",0
+S,chat,"[['cattus', 'chat (domestique)'], ['tešau', 'chatte'], ['felis', 'chat sauvage d’Europe (Felis silvestris silvestris)']]",0
+G,chien,[],1
+NS,chien,"[['canis', 'chien, chienne']]",0
+S,chien,"[['canis', 'chien, chienne']]",0
+G,chthonien,"[('khthónios', 'souterrain'), ('khthṓn', 'terre')]",1
+NS,chthonien,"[['khthṓn', 'terre']]",0.5
+S,chthonien,"[['khthṓn', 'terre']]",0.5
+G,ciel,[],1
+NS,ciel,[],1
+S,ciel,[],1
+G,comestible,"[('comestus', 'manger')]",1
+NS,comestible,[],0
+S,comestible,[],0
+G,corps,[],1
+NS,corps,[],1
+S,corps,[],1
+G,coturnisme,"[('coturnix', 'caille')]",1
+NS,coturnisme,[],0
+S,coturnisme,[],0
+G,crustacé,"[('crusta', 'croûte')]",1
+NS,crustacé,"[['crusta', 'croûte']]",1
+S,crustacé,"[['crusta', 'croûte']]",1
+G,céleste,"[('caelestis', 'qui appartient au ciel'), ('caelum', 'ciel')]",1
+NS,céleste,"[['caelum', 'ciel']]",0.5
+S,céleste,"[['caelum', 'ciel']]",0.5
+G,céphalaire,"[('képhalê', 'tête')]",1
+NS,céphalaire,"[['grec ancien', 'tête']]",0
+S,céphalaire,"[['grec ancien', 'tête']]",0
+G,cérémonie,[],1
+NS,cérémonie,[],1
+S,cérémonie,[],1
+G,dent,[],1
+NS,dent,[],1
+S,dent,[],1
+G,divitisme,"[('divitiae', 'richesse')]",1
+NS,divitisme,[],0
+S,divitisme,[],0
+G,eau,[],1
+NS,eau,"[['h₂ékʷeh₂', 'eau'], ['aqua', 'eau'], ['ancien français', 'ewe'], ['latin', 'aqua'], ['proto-italique', '*akʷā'], ['indo-européen commun', '*h₂ékʷeh₂']]",0
+S,eau,"[['h₂ékʷeh₂', 'eau'], ['aqua', 'eau'], ['ancien français', 'ewe'], ['latin', 'aqua'], ['proto-italique', '*akʷā'], ['indo-européen commun', '*h₂ékʷeh₂']]",0
+G,essai,[],1
+NS,essai,[],1
+S,essai,[],1
+G,fabisme,"[('faba', 'fève')]",1
+NS,fabisme,[],0
+S,fabisme,[],0
+G,fauteuil,[],1
+NS,fauteuil,"[['faldestoed', 'siège pliant'], ['fauteuil', 'siège comportant des accotoirs, et un dossier.']]",0
+S,fauteuil,"[['faldestoed', 'siège pliant'], ['fauteuil', 'siège comportant des accotoirs, et un dossier.']]",0
+G,feu,[],1
+NS,feu,"[['focus', 'fourneau de cuisine'], ['focus', 'pierre à feu'], ['fire', 'feu'], ['focal', 'focaliser'], ['focaliseur', 'focaliseur'], ['bifocal', 'bifocal'], ['focalisable', 'focaliser'], ['focalisation', 'focaliser'], ['focaliseur', 'focaliseur'], ['focalité', 'focaliser']]",0
+S,feu,"[['focus', 'fourneau de cuisine'], ['focus', 'pierre à feu'], ['fire', 'feu'], ['focal', 'focaliser'], ['focaliseur', 'focaliseur'], ['bifocal', 'bifocal'], ['focalisable', 'focaliser'], ['focalisation', 'focaliser'], ['focaliseur', 'focaliseur'], ['focalité', 'focaliser']]",0
+G,fin,[],1
+NS,fin,"[{'étymon': 'fīnis', 'sens': 'confins, frontière, limite, borne, clôture'}]",0
+S,fin,"[{'étymon': 'fīnis', 'sens': 'confins, frontière, limite, borne, clôture'}]",0
+G,foliacé,"[('folium', 'feuille')]",1
+NS,foliacé,[],0
+S,foliacé,[],0
+G,funiculaire,"[('funiculus', 'cordelette'), ('funis', 'corde')]",1
+NS,funiculaire,[],0.5
+S,funiculaire,[],0.5
+G,gibbeux,"[('gibbosus', 'bossu'), ('gibbus', 'bosse')]",1
+NS,gibbeux,[],0
+S,gibbeux,[],0
+G,gigantesque,"[('gigas, gigante', 'géant'), ('gigas, gigantos', 'géant')]",1
+NS,gigantesque,"[['gigante', 'géant']]",1
+S,gigantesque,"[['gigante', 'géant']]",1
+G,gravidisme,"[('gravida', 'enceinte')]",1
+NS,gravidisme,[],0
+S,gravidisme,[],0
+G,groupe,[],1
+NS,groupe,"[['germanique', 'masse arrondie'], ['italien', 'nœud']]",0
+S,groupe,"[['germanique', 'masse arrondie'], ['italien', 'nœud']]",0
+G,humain,"[('humanus', ""qui concerne l'homme""), ('homo, hominis', 'homme')]",1
+NS,humain,"[['humus', 'terrien'], ['homo', 'homme']]",0.5
+S,humain,"[['humus', 'terrien'], ['homo', 'homme']]",0.5
+G,igné,"[('igneus', 'de feu'), ('ignis', 'feu')]",1
+NS,igné,"[['igné', 'Qui est de feu, qui a les qualités du feu.']]",0
+S,igné,"[['igné', 'Qui est de feu, qui a les qualités du feu.']]",0
+G,jour,[],1
+NS,jour,"[['dies', 'Période de vingt-quatre heures'], ['jor', 'Période de vingt-quatre heures'], ['jorn', 'Période de vingt-quatre heures'], ['giorno', 'Période de vingt-quatre heures'], ['ghjornu', 'Période de vingt-quatre heures']]",0
+S,jour,"[['dies', 'Période de vingt-quatre heures'], ['jor', 'Période de vingt-quatre heures'], ['jorn', 'Période de vingt-quatre heures'], ['giorno', 'Période de vingt-quatre heures'], ['ghjornu', 'Période de vingt-quatre heures']]",0
+G,kérosène,"[('kêros', 'cire')]",1
+NS,kérosène,"[['kêros', 'cire'], ['anglais', 'anglais']]",0.5
+S,kérosène,"[['kêros', 'cire'], ['anglais', 'anglais']]",0.5
+G,lactique,"[('lac, lactis', 'lait')]",1
+NS,lactique,"[['lac', 'lait'], ['lac', 'milk']]",0.5
+S,lactique,"[['lac', 'lait'], ['lac', 'milk']]",0.5
+G,lait,[],1
+NS,lait,[],1
+S,lait,[],1
+G,lectrice,"[('lĕctor', 'lecteur'), ('lēctum', 'lire')]",1
+NS,lectrice,[],0
+S,lectrice,[],0
+G,ligneux,"[('lignosus', 'comme du bois'), ('lignum', 'bois')]",1
+NS,ligneux,,0
+S,ligneux,"[['lignosus', 'comme du bois'], ['lignum', 'bois']]",1
+G,lire,[],1
+NS,lire,[],1
+S,lire,[],1
+G,locataire,"[('locatum', 'louer')]",1
+NS,locataire,"[['latin', 'louer']]",0
+S,locataire,"[['latin', 'louer']]",0
+G,main,[],1
+NS,main,"[['manus', 'main'], ['man', 'main'], ['mein', 'main'], ['moyen français', 'partie du corps humain située au bout du bras'], ['ancien français', 'main'], ['latin', 'main'], ['proto-italique', 'main'], ['indo-européen', 'main']]",0
+S,main,"[['manus', 'main'], ['man', 'main'], ['mein', 'main'], ['moyen français', 'partie du corps humain située au bout du bras'], ['ancien français', 'main'], ['latin', 'main'], ['proto-italique', 'main'], ['indo-européen', 'main']]",0
+G,malachite,"[('molochitis', 'malachite'), ('molokhitês', 'semblable à la mauve'), ('maláchē', 'mauve')]",1
+NS,malachite,"[['latin', 'molochites', 'mauve']]",0
+S,malachite,"[['latin', 'molochites', 'mauve']]",0
+G,manger,[],1
+NS,manger,"[['manducare', 'mâcher et avaler un aliment dans le but de se nourrir.'], ['*mandocare', 'Mauvais emprunt hypothétique de manducare']]",0
+S,manger,"[['manducare', 'mâcher et avaler un aliment dans le but de se nourrir.'], ['*mandocare', 'Mauvais emprunt hypothétique de manducare']]",0
+G,marmoréen,"[('marmoreus', 'de marbre'), ('marmor', 'marbre')]",1
+NS,marmoréen,[],0
+S,marmoréen,[],0
+G,mer,[],1
+NS,mer,[],1
+S,mer,[],1
+G,mois,[],1
+NS,mois,"[['mensis', 'mois'], ['mensis', 'lune']]",0
+S,mois,"[['mensis', 'mois'], ['mensis', 'lune']]",0
+G,mont,[],1
+NS,mont,[],1
+S,mont,[],1
+G,mot,[],1
+NS,mot,"[['mut', 'grognement, son'], ['mutmut', 'murmure, son à peine distinct'], ['mu', 'murmure']]",0
+S,mot,"[['mut', 'grognement, son'], ['mutmut', 'murmure, son à peine distinct'], ['mu', 'murmure']]",0
+G,myrmicéen,"[('mýrmêx', 'fourmi')]",1
+NS,myrmicéen,[],0
+S,myrmicéen,[],0
+G,nez,[],1
+NS,nez,"[['nasus', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nose', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nase', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['naze', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['blair', 'Non défini'], ['blaire', 'Non défini'], ['blase', 'Non défini'], ['blaze', 'Non défini'], ['naseette', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nasière', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nazinette', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nazisme', ""Idéologie politique d'extrême droite""], ['naziste', ""Personne adhérant à l'idéologie nazie""], ['nazitude', 'Idéologie nazie'], ['nazité', 'Idéologie nazie'], ['nez', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.']]",0
+S,nez,"[['nasus', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nose', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nase', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['naze', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['blair', 'Non défini'], ['blaire', 'Non défini'], ['blase', 'Non défini'], ['blaze', 'Non défini'], ['naseette', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nasière', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nazinette', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.'], ['nazisme', ""Idéologie politique d'extrême droite""], ['naziste', ""Personne adhérant à l'idéologie nazie""], ['nazitude', 'Idéologie nazie'], ['nazité', 'Idéologie nazie'], ['nez', 'Partie saillante du visage entre la bouche et le front couvrant l’organe communiquant avec les poumons permettant de sentir et de respirer.']]",0
+G,nom,[],1
+NS,nom,[],1
+S,nom,[],1
+G,nord,[],1
+NS,nord,"[['*nurtha', 'gauche [au lever du soleil]'], ['*ner', 'gauche [au lever du soleil]']]",0
+S,nord,"[['*nurtha', 'gauche [au lever du soleil]'], ['*ner', 'gauche [au lever du soleil]']]",0
+G,nucléé,"[('nucleus', 'noyau')]",1
+NS,nucléé,[],0
+S,nucléé,[],0
+G,nutrition,"[('nutritio', 'action de nourrir'), ('nutritum', 'nourrir')]",1
+NS,nutrition,"[['nutritio', 'action de nourrir']]",0.5
+S,nutrition,"[['nutritio', 'action de nourrir']]",0.5
+G,oblation,"[('oblatio', 'offrande'), ('oblatus', 'offrir')]",1
+NS,oblation,[],0
+S,oblation,[],0
+G,oiseau,[],1
+NS,oiseau,"[['aucellus', 'petit oiseau'], ['avis', 'oiseau']]",0
+S,oiseau,"[['aucellus', 'petit oiseau'], ['avis', 'oiseau']]",0
+G,ordre,[],1
+NS,ordre,"[['ordo', 'rang, rangée ; classe de citoyens, succession ; distribution régulière'], ['latin', 'langue']]",0
+S,ordre,"[['ordo', 'rang, rangée ; classe de citoyens, succession ; distribution régulière'], ['latin', 'langue']]",0
+G,ovoïde,"[('ovum', 'œuf')]",1
+NS,ovoïde,[],0.5
+S,ovoïde,[],0.5
+G,pain,[],1
+NS,pain,[],0
+S,pain,[],0
+G,pancalisme,"[('pankalos', 'tout beau'), ('kalós', 'bon')]",1
+NS,pancalisme,[],0
+S,pancalisme,[],0
+G,patibulaire,"[('patibulum', 'gibet')]",1
+NS,patibulaire,[],0
+S,patibulaire,[],0
+G,phrase,[],1
+NS,phrase,[],1
+S,phrase,[],1
+G,pied,[],1
+NS,pied,[],1
+S,pied,[],1
+G,pierre,[],1
+NS,pierre,"[['pédra', 'roche, rocher'], ['pétra', 'roche, rocher']]",0
+S,pierre,"[['pédra', 'roche, rocher'], ['pétra', 'roche, rocher']]",0
+G,plage,[],1
+NS,plage,"[['plaga', 'large étendue, région'], ['πλάγιος', 'oblique, qui n’est pas en ligne droite']]",0
+S,plage,"[['plaga', 'large étendue, région'], ['πλάγιος', 'oblique, qui n’est pas en ligne droite']]",0
+G,polyadelphe,"[('adelphos', 'frère')]",1
+NS,polyadelphe,"[['adelphe', 'frère']]",0.5
+S,polyadelphe,"[['adelphe', 'frère']]",0.5
+G,pomme,[],1
+NS,pomme,"[['poma', 'fruit du pommier'], ['mālum', 'fruit du pommier']]",0
+S,pomme,"[['poma', 'fruit du pommier'], ['mālum', 'fruit du pommier']]",0
+G,porte,[],1
+NS,porte,[],1
+S,porte,[],1
+G,potable,"[('potabilis', 'qui peut être bu'), ('potus', 'boire')]",1
+NS,potable,"[['potare', 'boire']]",0.5
+S,potable,"[['potare', 'boire']]",0.5
+G,pétré,"[('petraeus', 'de pierre'), ('petra', 'pierre')]",1
+NS,pétré,[],0
+S,pétré,[],0
+G,rare,[],1
+NS,rare,[],1
+S,rare,[],1
+G,rupestre,"[('rupes', 'roche')]",1
+NS,rupestre,"[['rupes', 'roche']]",1
+S,rupestre,"[['rupes', 'roche']]",1
+G,région,[],1
+NS,région,"[['latin', 'vaste territoire ; étendue de pays']]",0
+S,région,"[['latin', 'vaste territoire ; étendue de pays']]",0
+G,scolaire,"[('scholaris', 'relatif à l'école'), ('schola', 'école'), ('skholế', 'école')]",1
+NS,scolaire,"[['schola', 'école']]",0.5
+S,scolaire,"[['schola', 'école']]",0.5
+G,sel,[],1
+NS,sel,"[['lignosus', 'comme du bois'], ['lignum', 'bois']]",0
+S,sel,['FAIL'],0
+G,sigillaire,"[('sigillum', 'sceau')] ",1
+NS,sigillaire,"[['signum', 'signe']]",0.5
+S,sigillaire,"[['signum', 'signe']]",0.5
+G,siège,[],1
+NS,siège,"[{'étymon': 'sedes', 'sens': 'siège, chaise, banquette'}, {'étymon': 'sedere', 'sens': 'asseoir'}]",0
+S,siège,"[{'étymon': 'sedes', 'sens': 'siège, chaise, banquette'}, {'étymon': 'sedere', 'sens': 'asseoir'}]",0
+G,strabisme,"[('strabus', 'qui louche'), ('strabos', 'qui louche')]",1
+NS,strabisme,[],0
+S,strabisme,[],0
+G,studieux,"[('studiosus', 'avide d'étudier'), ('studium', 'étude')]",1
+NS,studieux,[],0
+S,studieux,[],0
+G,sud,[],1
+NS,sud,[],1
+S,sud,[],1
+G,table,[],1
+NS,table,"[['tabula', 'planche, planchette'], ['latin', 'langue']]",0
+S,table,"[['tabula', 'planche, planchette'], ['latin', 'langue']]",0
+G,tasse,[],1
+NS,tasse,"[['arabe', 'récipient, coupe, écuelle'], ['persan', 'tasse'], ['italien', 'tazza'], ['provençal', 'tassa']]",0
+S,tasse,"[['arabe', 'récipient, coupe, écuelle'], ['persan', 'tasse'], ['italien', 'tazza'], ['provençal', 'tassa']]",0
+G,terre,[],1
+NS,terre,[],1
+S,terre,[],1
+G,thalassique,"[('thalassa', 'mer')]",1
+NS,thalassique,[],0
+S,thalassique,[],0
+G,thélite,"[('thêlế', 'mamelle')]",1
+NS,thélite,"[['thēlē', 'mamelle']]",1
+S,thélite,"[['thēlē', 'mamelle']]",1
+G,trousse,[],1
+NS,trousse,[],1
+S,trousse,[],1
+G,vent,[],1
+NS,vent,[],1
+S,vent,[],1
+G,verbe,[],1
+NS,verbe,[],1
+S,verbe,[],1
+G,viaire,"[('via', 'voie')]",1
+NS,viaire,"[['et', 'nom commun 1'], ['via', 'voie publique']]",0.5
+S,viaire,"[['et', 'nom commun 1'], ['via', 'voie publique']]",0.5
+G,visible,"[('visibilis', 'qui peut être vu'), ('visum', 'voir')]",1
+NS,visible,[],0
+S,visible,[],0
+G,école,[],1
+NS,école,"[['*escola', 'loisir studieux, leçon, lieu d’étude'], ['schola', 'loisir'], ['σχολή', 'loisir']]",0
+S,école,"[['*escola', 'loisir studieux, leçon, lieu d’étude'], ['schola', 'loisir'], ['σχολή', 'loisir']]",0
+G,évier,"[('euvier, euwier, évier', 'vase à laver les mains'), ('aquarius', 'relatif à l'eau'), ('aqua', 'eau')]",1
+NS,évier,"[['euwier', 'récipient qui contient l’eau'], ['aquarium', 'récipient contenant de l’eau'], ['aquarius', 'signes du zodiaque']]",0.5
+S,évier,"[['euwier', 'récipient qui contient l’eau'], ['aquarium', 'récipient contenant de l’eau'], ['aquarius', 'signes du zodiaque']]",0.5
