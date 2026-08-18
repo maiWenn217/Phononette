@@ -30,7 +30,7 @@ Pour améliorer les résultats nous avons : 1) étendu le contexte étymologique
 ## Etape bonus : test sur une autre langue
 Par curiosité nous avons testé notre méthodologie sur une autre langue que le français : l'italien. Pour ce faire, le jeu de données gold standard de l'italien se trouve dans le dossier data/gold. Les entrées sélectionnées ainsi que leur catégorie pour créer le contexte à donner au LLM se trouve dans data, ansi que le contexte lui-même. Le script utilisé pour interroger Qwen sur le contexte italien se trouve dans le dossier src/italian_contexte et le fichier des résultats se trouvent dans le dossier results/italian_context. 
 
-Toutes les analyses de résultats ainsi que les différentes comparaisons entre les différents modèles, contextes et prompts sont explicitées dans le mémoire 
+Toutes les analyses de résultats ainsi que les différentes comparaisons entre les différents modèles, contextes et prompts sont explicitées dans le mémoire Creation_lexicon_suppletive_stems.pdf. 
 
 ## Prochaine étape 
-Le jeu de données étant créé, il ne reste plus qu'à tester différents modèles et trouver des métriques pour pouvoir les évaluer. 
+La prochaine étape consistera à appliquer la méthodologie mise au point à grande échelle, c’est-à-dire à tous les lexèmes d’origine française disponibles dans Kaikki, et non plus uniquement aux 100 entrées de notre ensemble de données de référence. Cette extension nécessite tout d’abord d’intégrer les améliorations identifiées : révision de la consigne, meilleure définition des concepts morphologiques attendus et limitation du contexte étymologique étendu, afin d’éviter de propager les erreurs et les confusions observées dans notre échantillon.
